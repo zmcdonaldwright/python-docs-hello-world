@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "PassGen to come.... "
+    return "Hello Azure!"
